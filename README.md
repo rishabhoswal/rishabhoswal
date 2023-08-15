@@ -28,9 +28,9 @@
 
 ### About Me :
 
-I am a Machine Learning Developer and an awesome gamer.
+I am a Machine Learning Developer and a keen explorer.
 
-- :telescope: I’m working as a Machine Learning Developer and contributing to backend development for building web applications and softwares.
+- :telescope: I’m working as a Sr.Machine Learning Developer and aldo contributing to backend development for building web applications and softwares.
 
 - :seedling: Exploring new technologies like AI/ML and Blockchain.
 
