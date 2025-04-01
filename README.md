@@ -30,11 +30,11 @@
 
 I am a Machine Learning Developer and a keen explorer.
 
-- :telescope: I’m working as a Sr.Machine Learning Engineer and also contributing to backend development for building web applications and software.
+- :telescope: Current Role: Senior Machine Learning Engineer with contributions to backend development for web applications and software.
 
-- :seedling: Exploring new technologies like AI/ML and Blockchain.
+- :seedling: Interests: Diving into AI/ML advancements and exploring Blockchain technologies.
 
-- :zap: In my free time, I am either on Spotify or Steam.
+- :zap: Hobbies: In my free time, you'll find me on Spotify or Steam.
 
 ---
 
