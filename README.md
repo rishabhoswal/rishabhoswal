@@ -30,11 +30,11 @@
 
 I am a Machine Learning Developer and a keen explorer.
 
-- :telescope: I’m working as a Sr.Machine Learning Developer and aldo contributing to backend development for building web applications and softwares.
+- :telescope: I’m working as a Sr.Machine Learning Engineer and alds contributing to backend development for building web applications and software.
 
 - :seedling: Exploring new technologies like AI/ML and Blockchain.
 
-- :zap: In my free time, I am either on spotify or steam.
+- :zap: In my free time, I am either on Spotify or Steam.
 
 ---
 
