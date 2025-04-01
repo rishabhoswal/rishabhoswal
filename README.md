@@ -30,7 +30,7 @@
 
 I am a Machine Learning Developer and a keen explorer.
 
-- :telescope: I’m working as a Sr.Machine Learning Engineer and alds contributing to backend development for building web applications and software.
+- :telescope: I’m working as a Sr.Machine Learning Engineer and also contributing to backend development for building web applications and software.
 
 - :seedling: Exploring new technologies like AI/ML and Blockchain.
 
