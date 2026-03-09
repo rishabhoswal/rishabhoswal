@@ -124,12 +124,7 @@ _Status: Concept and demo material being organized_
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rishabhoswal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhoswal&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rishabhoswal&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=rishabhoswal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -137,7 +132,7 @@ _Status: Concept and demo material being organized_
 ## Current Goals
 
 - Publish more polished public repositories
-- Convert strong internal/project work into recruiter-ready demos
+- Convert strong project work into recruiter-ready demos
 - Showcase end-to-end ownership across ML, backend, and deployment
 - Build AI products that demonstrate both research depth and engineering execution
 
